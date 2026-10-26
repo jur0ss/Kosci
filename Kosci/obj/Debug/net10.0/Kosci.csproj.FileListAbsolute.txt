@@ -1,0 +1,14 @@
+/home/jurekg/RiderProjects/Kosci/Kosci/bin/Debug/net10.0/Kosci
+/home/jurekg/RiderProjects/Kosci/Kosci/bin/Debug/net10.0/Kosci.deps.json
+/home/jurekg/RiderProjects/Kosci/Kosci/bin/Debug/net10.0/Kosci.runtimeconfig.json
+/home/jurekg/RiderProjects/Kosci/Kosci/bin/Debug/net10.0/Kosci.dll
+/home/jurekg/RiderProjects/Kosci/Kosci/bin/Debug/net10.0/Kosci.pdb
+/home/jurekg/RiderProjects/Kosci/Kosci/obj/Debug/net10.0/Kosci.GeneratedMSBuildEditorConfig.editorconfig
+/home/jurekg/RiderProjects/Kosci/Kosci/obj/Debug/net10.0/Kosci.AssemblyInfoInputs.cache
+/home/jurekg/RiderProjects/Kosci/Kosci/obj/Debug/net10.0/Kosci.AssemblyInfo.cs
+/home/jurekg/RiderProjects/Kosci/Kosci/obj/Debug/net10.0/Kosci.csproj.CoreCompileInputs.cache
+/home/jurekg/RiderProjects/Kosci/Kosci/obj/Debug/net10.0/Kosci.dll
+/home/jurekg/RiderProjects/Kosci/Kosci/obj/Debug/net10.0/refint/Kosci.dll
+/home/jurekg/RiderProjects/Kosci/Kosci/obj/Debug/net10.0/Kosci.pdb
+/home/jurekg/RiderProjects/Kosci/Kosci/obj/Debug/net10.0/Kosci.genruntimeconfig.cache
+/home/jurekg/RiderProjects/Kosci/Kosci/obj/Debug/net10.0/ref/Kosci.dll
